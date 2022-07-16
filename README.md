@@ -1,2 +1,1 @@
-# odev1
-ilk html ödevim
+**Bu proje [Patika.dev](app.patika.dev) Front-End eğitimi için yapılmıştır.**
