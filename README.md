@@ -1,1 +1,1 @@
-**Bu proje [Patika.dev](app.patika.dev) Front-End eğitimi için yapılmıştır.**
+**Bu proje [Patika.dev](https://app.patika.dev/paths) Front-End eğitimi için yapılmıştır.**
